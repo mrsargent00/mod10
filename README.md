@@ -29,8 +29,8 @@ After the prompts are completed a .svg file will be generated in the dist. folde
 To open the file, drag the .svg to the desktop and open it using a web browser.
 
 ## Video Link
-
-
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/769ea4bf-c655-4e31-yffa-dbfb335e056e
+copy and paste in browser to see the magic
 
 ## Installation
 
