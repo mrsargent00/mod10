@@ -1,4 +1,4 @@
-## Weather
+## Professional README Generator
 
 
 ## Badges
@@ -20,16 +20,13 @@ Read more about MIT here:
 
 ## Description
 
-This application is a homework assignment for the MSU Coding Bootcamp. In this challange we were tasked with using Nodejs, Inquirer, and Jest to generate an .svg logo with text.
-
-Users will be prompted with an iput for text, text color, background color, and desired shape.
-
-After the prompts are completed a .svg file will be generated in the dist. folder.
-
-To open the file, drag the .svg to the desktop and open it using a web browser.
+This application was created as a homework assignment for the MSU Coding Bootcamp. The challenge required us to use Node.js, Inquirer, and Jest to generate an .svg logo with text.
+Users are prompted to input text, choose text color, background color, and select a desired shape.
+Once the prompts are completed, a .svg file is generated in the "Complete logo" folder.
+To view the file, right-click the .svg and choose "Open in Live" from the context menu.
 
 ## Video Link
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/769ea4bf-c655-4e31-yffa-dbfb335e056e
+chrome-extension:
 copy and paste in browser to see the magic
 
 ## Installation
@@ -48,11 +45,13 @@ To view content used, expand the Mod10 folder.
 In the root directory run "npm i" to install all packages.
 Open index.js in an integrated terminal and type "node index.js" to start the user prompts
 
-
 ## Contributors:
+
 - Homework code  instruction: https://git.bootcampcontent.com/Michigan-State-University/MSU-VIRT-FSF-PT-07-2023-U-LOLC
-- 
-## Classmates:     
+- [Ben Rodriguez](https://github.com/benrodriguezmoran)
+- [Micah Dershem](https://github.com/G303K)
+
+## Classmates who assist on homework:
 
 - [Ben Rodriguez](https://github.com/benrodriguezmoran)
 - [Micah Dershem](https://github.com/G303K)
