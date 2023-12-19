@@ -26,7 +26,7 @@ Once the prompts are completed, a .svg file is generated in the "Complete logo" 
 To view the file, right-click the .svg and choose "Open in Live" from the context menu.
 
 ## Video Link
-chrome-extension:
+chrome-extension: chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/5d8f102c-c08e-4aab-y1ec-56782447807f
 copy and paste in browser to see the magic
 
 ## Installation
